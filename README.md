@@ -69,18 +69,23 @@ node menu.js
 
 ## 📌 Exercícios disponíveis
 
-| Nº | Descrição                                          |
-|----|----------------------------------------------------|
-| 6  | Verifica se três lados formam um triângulo         |
-| 7  | Calcula o valor total da compra de maçãs           |
-| 8  | Ordena dois números em ordem crescente             |
-| 9  | Contagem regressiva de 10 até 1                    |
-| 10 | Repete um número inteiro 10 vezes                  |
-| 11 | Soma de 5 números digitados                        |
-| 12 | Exibe a tabuada de um número                       |
-| 13 | Calcula média de números até o usuário digitar 0   |
-| 14 | Calcula o fatorial de um número                    |
-| 15 | Gera os 10 primeiros números da sequência Fibonacci|
+| Nº  | Função                    | Descrição                                                    |
+|-----|---------------------------|--------------------------------------------------------------|
+| 1   | verificarParOuImpar()     | Verifica se um número inteiro é par ou ímpar com if.         |
+| 2   | classificarIdade()        | Classifica a idade como criança, adolescente, adulto ou idoso.|
+| 3   | avaliarNota()             | Avalia a nota como aprovado, recuperação ou reprovado (if-else if).|
+| 4   | calcularIMC()             | Calcula o IMC e classifica o resultado com base nos valores definidos.|
+| 5   | switch-case no menu       | Controla a navegação do usuário entre as opções usando switch.|
+| 6   | verificarTriangulo()      | Verifica se três lados formam um triângulo                   |
+| 7   | calcularValorMacas()      | Calcula o valor total da compra de maçãs                     |
+| 8   | ordenarNumeros()          | Ordena dois números em ordem crescente                       |
+| 9   | contagemRegressiva()      | Contagem regressiva de 10 até 1                              |
+| 10  | repetirNumero()           | Repete um número inteiro 10 vezes                            |
+| 11  | somarNumeros()            | Soma de 5 números digitados                                  |
+| 12  | exibirTabuada()           | Exibe a tabuada de um número                                 |
+| 13  | calcularMedia()           | Calcula média de números até o usuário digitar 0             |
+| 14  | calcularFatorial()        | Calcula o fatorial de um número                              |
+| 15  | gerarFibonacci()          | Gera os 10 primeiros números da sequência Fibonacci          |
 
 ---
 

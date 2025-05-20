@@ -3,6 +3,12 @@ const { execSync } = require('child_process');
 
 while (true) {
     console.log("\n===== MENU DE EXERCÍCIOS =====");
+    console.log('\n=== MENU DE OPÇÕES ===');
+    console.log('1. Verificar se um número é par ou ímpar');
+    console.log('2. Classificar idade');
+    console.log('3. Avaliar nota (Aprovado, Recuperação, Reprovado)');
+    console.log('4. Calcular IMC');
+    console.log('5. Sair');
     console.log("6. Verificar tipo de triângulo");
     console.log("7. Valor total das maçãs");
     console.log("8. Ordem crescente de dois números");
