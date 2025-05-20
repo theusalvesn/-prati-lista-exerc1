@@ -14,6 +14,11 @@ Cada exercício está separado em um arquivo próprio:
 ```
 projeto/
 │
+├── exercicio1.js
+├── exercicio2.js
+├── exercicio3.js
+├── exercicio4.js
+├── exercicio5.js
 ├── exercicio6.js
 ├── exercicio7.js
 ├── exercicio8.js
